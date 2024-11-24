@@ -1,0 +1,41 @@
+# Ignore environment variable files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Git-specific files (if not needed)
+*.lock
+
+# Ignore secret key files
+secrets.json
+
+# Ignore package dependency files (if using virtualenv instead of requirements.txt)
+Pipfile
+Pipfile.lock
+
+# Ignore node_modules if you are using JavaScript or integrating other packages
+node_modules/
+
+# Ignore database files
+*.sqlite3
+*.db
+
+# Ignore sensitive configuration files
+config.json
