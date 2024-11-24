@@ -1,0 +1,365 @@
+2024-11-22 15:36:36,686 - INFO - === Starting Tests ===
+2024-11-22 15:36:36,686 - INFO - Testing Environment Variables...
+2024-11-22 15:36:36,704 - INFO - Testing Discord OAuth2...
+2024-11-22 15:36:36,872 - INFO - Testing YouTube API...
+2024-11-22 15:36:37,065 - INFO - Testing Kick Web Scraping...
+2024-11-22 15:36:37,201 - INFO - === All Tests Completed ===
+2024-11-22 15:38:10,268 - INFO - === Starting Tests ===
+2024-11-22 15:38:10,269 - INFO - Testing Environment Variables...
+2024-11-22 15:38:10,269 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 15:38:10,269 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 15:38:10,269 - INFO - Testing Discord OAuth2...
+2024-11-22 15:38:10,443 - ERROR - ❌ Discord OAuth2 Test Failed (Status Code: 401).
+2024-11-22 15:38:10,444 - INFO - Testing YouTube API...
+2024-11-22 15:38:10,611 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 15:38:10,613 - INFO - Testing Kick Web Scraping...
+2024-11-22 15:38:10,680 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 15:38:10,681 - INFO - === All Tests Completed ===
+2024-11-22 15:39:51,160 - INFO - === Starting Tests ===
+2024-11-22 15:39:51,160 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 15:39:51,160 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 15:39:51,160 - INFO - ✅ All environment variables are set.
+2024-11-22 15:39:51,160 - INFO - Testing Discord OAuth2...
+2024-11-22 15:39:51,324 - ERROR - ❌ Discord OAuth2 Test Failed (Status Code: 401).
+2024-11-22 15:39:51,326 - INFO - Testing YouTube API...
+2024-11-22 15:39:51,492 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 15:39:51,493 - INFO - Testing Kick Web Scraping...
+2024-11-22 15:39:51,555 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 15:39:51,555 - INFO - === All Tests Completed ===
+2024-11-22 15:41:25,759 - INFO - === Starting Tests ===
+2024-11-22 15:41:25,759 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 15:41:25,759 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 15:41:25,759 - INFO - ✅ All environment variables are set.
+2024-11-22 15:41:25,759 - INFO - Testing Discord OAuth2...
+2024-11-22 15:41:25,760 - ERROR - ❌ Discord OAuth2 Test encountered an error: No connection adapters were found for '("https://discord.com/api/v10")/users/@me'
+2024-11-22 15:41:25,760 - INFO - Testing YouTube API...
+2024-11-22 15:41:25,920 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 15:41:25,921 - INFO - Testing Kick Web Scraping...
+2024-11-22 15:41:26,019 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 15:41:26,020 - INFO - === All Tests Completed ===
+2024-11-22 15:43:09,067 - INFO - === Starting Tests ===
+2024-11-22 15:43:09,068 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 15:43:09,068 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 15:43:09,068 - INFO - ✅ All environment variables are set.
+2024-11-22 15:43:09,068 - INFO - Testing Discord OAuth2...
+2024-11-22 15:43:09,069 - ERROR - ❌ Discord OAuth2 Test encountered an error: No connection adapters were found for '("https://discord.com/api/v10")/users/@me'
+2024-11-22 15:43:09,070 - INFO - Testing YouTube API...
+2024-11-22 15:43:09,225 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 15:43:09,227 - INFO - Testing Kick Web Scraping...
+2024-11-22 15:43:09,293 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 15:43:09,293 - INFO - === All Tests Completed ===
+2024-11-22 15:50:55,468 - INFO - === Starting Tests ===
+2024-11-22 15:50:55,468 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 15:50:55,468 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 15:50:55,468 - INFO - ✅ All environment variables are set.
+2024-11-22 15:50:55,469 - INFO - Testing Discord OAuth2...
+2024-11-22 15:50:55,469 - ERROR - ❌ Discord OAuth2 Test encountered an error: No connection adapters were found for '("https://discord.com/api/v10")/users/@me'
+2024-11-22 15:50:55,470 - INFO - Testing YouTube API...
+2024-11-22 15:50:55,658 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 15:50:55,658 - INFO - Testing Kick Web Scraping...
+2024-11-22 15:50:55,742 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 15:50:55,744 - INFO - === All Tests Completed ===
+2024-11-22 16:06:04,599 - INFO - === Starting Tests ===
+2024-11-22 16:06:04,600 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:06:04,600 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:06:04,600 - INFO - ✅ All environment variables are set.
+2024-11-22 16:06:04,600 - INFO - Testing Discord OAuth2...
+2024-11-22 16:06:04,601 - ERROR - ❌ Discord OAuth2 Test encountered an error: No connection adapters were found for '("https://discord.com/api/v10")/users/@me'
+2024-11-22 16:06:04,601 - INFO - Testing YouTube API...
+2024-11-22 16:06:04,767 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 16:06:04,768 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:06:04,845 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:06:04,846 - INFO - === All Tests Completed ===
+2024-11-22 16:10:36,835 - INFO - === Starting Tests ===
+2024-11-22 16:10:36,835 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:10:36,835 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:10:36,836 - INFO - ✅ All environment variables are set.
+2024-11-22 16:10:36,836 - INFO - Testing Discord OAuth2...
+2024-11-22 16:10:36,837 - ERROR - ❌ Discord OAuth2 Test encountered an error: No connection adapters were found for '("https://discord.com/api/v10")S/users/@me'
+2024-11-22 16:10:36,837 - INFO - Testing YouTube API...
+2024-11-22 16:10:36,997 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 16:10:36,999 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:10:37,076 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:10:37,077 - INFO - === All Tests Completed ===
+2024-11-22 16:12:22,701 - INFO - === Starting Tests ===
+2024-11-22 16:12:22,701 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:12:22,702 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:12:22,702 - INFO - ✅ All environment variables are set.
+2024-11-22 16:12:22,702 - INFO - Testing Discord OAuth2...
+2024-11-22 16:12:22,703 - ERROR - ❌ Discord OAuth2 Test encountered an error: No connection adapters were found for '("https://discord.com/api/v10")/users/@me'
+2024-11-22 16:12:22,703 - INFO - Testing YouTube API...
+2024-11-22 16:12:22,859 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 16:12:22,860 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:12:22,913 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:12:22,913 - INFO - === All Tests Completed ===
+2024-11-22 16:19:18,587 - INFO - === Starting Tests ===
+2024-11-22 16:19:18,588 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:19:18,588 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:19:18,588 - INFO - ✅ All environment variables are set.
+2024-11-22 16:19:18,588 - INFO - Testing Discord OAuth2...
+2024-11-22 16:19:18,588 - INFO - Requesting URL: ("https://discord.com/api/v10")/users/@me
+2024-11-22 16:19:18,589 - ERROR - ❌ Discord OAuth2 Test encountered an error: No connection adapters were found for '("https://discord.com/api/v10")/users/@me'
+2024-11-22 16:19:18,589 - INFO - Testing YouTube API...
+2024-11-22 16:19:18,743 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 16:19:18,743 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:19:18,848 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:19:18,849 - INFO - === All Tests Completed ===
+2024-11-22 16:20:17,489 - INFO - === Starting Tests ===
+2024-11-22 16:20:17,489 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:20:17,489 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:20:17,489 - INFO - ✅ All environment variables are set.
+2024-11-22 16:20:17,489 - INFO - Testing Discord OAuth2...
+2024-11-22 16:20:17,489 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:20:17,655 - ERROR - ❌ Discord OAuth2 Test Failed (Status Code: 401).
+2024-11-22 16:20:17,657 - INFO - Testing YouTube API...
+2024-11-22 16:20:17,792 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 16:20:17,793 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:20:17,843 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:20:17,844 - INFO - === All Tests Completed ===
+2024-11-22 16:22:10,273 - INFO - === Starting Tests ===
+2024-11-22 16:22:10,275 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:22:10,275 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:22:10,275 - INFO - ✅ All environment variables are set.
+2024-11-22 16:22:10,275 - INFO - Testing Discord OAuth2...
+2024-11-22 16:22:10,275 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:22:10,275 - INFO - DISCORD_TOKEN: ("MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA")
+2024-11-22 16:22:10,500 - ERROR - ❌ Discord OAuth2 Test Failed (Status Code: 401).
+2024-11-22 16:22:10,500 - INFO - Testing YouTube API...
+2024-11-22 16:22:10,660 - ERROR - ❌ Failed to fetch YouTube data (Status Code: 400).
+2024-11-22 16:22:10,660 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:22:10,731 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:22:10,731 - INFO - === All Tests Completed ===
+2024-11-22 16:22:47,966 - INFO - === Starting Tests ===
+2024-11-22 16:22:47,967 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:22:47,967 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:22:47,967 - INFO - ✅ All environment variables are set.
+2024-11-22 16:22:47,967 - INFO - Testing Discord OAuth2...
+2024-11-22 16:22:47,967 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:22:47,967 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 16:22:48,176 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 16:22:48,176 - INFO - Testing YouTube API...
+2024-11-22 16:22:48,584 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 16:22:48,585 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:22:48,646 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:22:48,646 - INFO - === All Tests Completed ===
+2024-11-22 16:24:26,274 - INFO - === Starting Tests ===
+2024-11-22 16:24:26,274 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:24:26,274 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:24:26,275 - INFO - ✅ All environment variables are set.
+2024-11-22 16:24:26,275 - INFO - Testing Discord OAuth2...
+2024-11-22 16:24:26,275 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:24:26,275 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 16:24:26,570 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 16:24:26,570 - INFO - Testing YouTube API...
+2024-11-22 16:24:27,029 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 16:24:27,029 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:24:27,116 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:24:27,116 - INFO - === All Tests Completed ===
+2024-11-22 16:31:42,839 - INFO - === Starting Tests ===
+2024-11-22 16:31:42,839 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:31:42,839 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:31:42,839 - INFO - ✅ All environment variables are set.
+2024-11-22 16:31:42,839 - INFO - Testing Discord OAuth2...
+2024-11-22 16:31:42,840 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:31:42,840 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 16:31:43,045 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 16:31:43,045 - INFO - Testing YouTube API...
+2024-11-22 16:31:43,296 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 16:31:43,296 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:31:43,375 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:31:43,376 - INFO - === All Tests Completed ===
+2024-11-22 16:32:54,435 - INFO - === Starting Tests ===
+2024-11-22 16:32:54,435 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:32:54,435 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:32:54,435 - INFO - ✅ All environment variables are set.
+2024-11-22 16:32:54,435 - INFO - Testing Discord OAuth2...
+2024-11-22 16:32:54,435 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:32:54,435 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 16:32:54,711 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 16:32:54,712 - INFO - Testing YouTube API...
+2024-11-22 16:32:54,931 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 16:32:54,932 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:32:54,932 - INFO - https://kick.com/w33brl
+2024-11-22 16:32:55,004 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:32:55,004 - INFO - === All Tests Completed ===
+2024-11-22 16:39:09,982 - INFO - === Starting Tests ===
+2024-11-22 16:39:09,982 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:39:09,982 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:39:09,982 - INFO - ✅ All environment variables are set.
+2024-11-22 16:39:09,982 - INFO - Testing Discord OAuth2...
+2024-11-22 16:39:09,982 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:39:09,982 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 16:39:10,175 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 16:39:10,176 - INFO - Testing YouTube API...
+2024-11-22 16:39:10,455 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 16:39:10,456 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:39:10,456 - INFO - https://kick.com/w33brl
+2024-11-22 16:39:10,530 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:39:10,531 - INFO - === All Tests Completed ===
+2024-11-22 16:40:57,093 - INFO - === Starting Tests ===
+2024-11-22 16:40:57,093 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:40:57,093 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:40:57,093 - INFO - ✅ All environment variables are set.
+2024-11-22 16:40:57,093 - INFO - Testing Discord OAuth2...
+2024-11-22 16:40:57,093 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:40:57,093 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 16:40:57,293 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 16:40:57,293 - INFO - Testing YouTube API...
+2024-11-22 16:40:57,579 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 16:40:57,580 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:40:57,580 - INFO - https://kick.com/w33brl
+2024-11-22 16:40:57,662 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:40:57,663 - INFO - === All Tests Completed ===
+2024-11-22 16:41:43,889 - INFO - === Starting Tests ===
+2024-11-22 16:41:43,889 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:41:43,889 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:41:43,889 - INFO - ✅ All environment variables are set.
+2024-11-22 16:41:43,889 - INFO - Testing Discord OAuth2...
+2024-11-22 16:41:43,889 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:41:43,889 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 16:41:44,069 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 16:41:44,070 - INFO - Testing YouTube API...
+2024-11-22 16:41:44,351 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 16:41:44,352 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:41:44,352 - INFO - https://kick.com/w33brl
+2024-11-22 16:41:44,430 - INFO - <Response [403]>
+2024-11-22 16:41:44,431 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:41:44,431 - INFO - === All Tests Completed ===
+2024-11-22 16:43:03,023 - INFO - === Starting Tests ===
+2024-11-22 16:43:03,023 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:43:03,023 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:43:03,024 - INFO - ✅ All environment variables are set.
+2024-11-22 16:43:03,024 - INFO - Testing Discord OAuth2...
+2024-11-22 16:43:03,024 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:43:03,024 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 16:43:03,209 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 16:43:03,210 - INFO - Testing YouTube API...
+2024-11-22 16:43:03,555 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 16:43:03,556 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:43:03,556 - INFO - https://kick.com/w33brl
+2024-11-22 16:43:03,655 - INFO - Status Code: 403
+2024-11-22 16:43:03,656 - INFO - Response Headers: {'Date': 'Fri, 22 Nov 2024 23:43:03 GMT', 'Content-Type': 'text/html', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Accept-CH': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Critical-CH': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Cross-Origin-Embedder-Policy': 'require-corp', 'Cross-Origin-Opener-Policy': 'same-origin', 'Cross-Origin-Resource-Policy': 'same-origin', 'Origin-Agent-Cluster': '?1', 'Permissions-Policy': 'accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()', 'Referrer-Policy': 'same-origin', 'X-Content-Options': 'nosniff', 'X-Frame-Options': 'SAMEORIGIN', 'cf-mitigated': 'challenge', 'cf-chl-out': 'tJhgXnAytV3uwI2zi3i0ATKY+F7pMYyDUeay1MYMY5BUyWieBksXoxB/yWHkTxIB253/JJ1TdD9VQDEyc3B0rZc/4gcEIiwIkOPQ0eVwLM2Czk+BsQuvlYtG1T4hulhZ06d489C/YpF9YtJ1Qc6o3g==$jVJ6VlptQTvjNSVngVumdA==', 'Cache-Control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'Expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'Set-Cookie': '__cf_bm=FQXC9Zw7t2nXZ1Dcvlb9sZfQ7LxwKF0s5ll6w4RFJBk-1732318983-1.0.1.1-Xgw8YxnE1CJycsxdPT1nkDOjW9OxRBwZ3PvjKYqg4r0G64A887if8OTZMIGvY5bUSodwnZ3uD.kbi.H3S56k7g; path=/; expires=Sat, 23-Nov-24 00:13:03 GMT; domain=.kick.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'CF-RAY': '8e6cc78c5d85a702-PHX', 'Content-Encoding': 'br', 'alt-svc': 'h3=":443"; ma=86400'}
+2024-11-22 16:43:03,656 - INFO - Response Text: á¨æýp )çï7ñ[Uý×oEôJ'ToÏùBÄ'fQ§×«ÜÈkð!kìçÿX>?Á3:å¨´þu±´hºîÎÅH¦G{£'¼Çr]äÓ´àHQü»\»VxÕÌß?²þË6üÁn¯ÕÚf¼¶eý>8ïõ 	4k×þúHÊh^²õ÷äq`°d3þ"÷K,à¢û¨Ë~ÿO«~4¿é³õ°
+5H ëlïu~'QÑçùèK|-IÔf¿¡Ùæ¿ÍÕfüãÏx8¿ê®úâ¯~='¯ó7ø«½Xà¯ríÚ?û  Â~}YÜTë×ë×RÝÙWÖÛ²~C ø_t!B úUìSéWûÚªÏ¯hÛìË²Â'ÝV}#GùùüÐ¯fVÙ-~C<¬Ã§µ{¶VIô¡d[öIÍUÔ~*Ã:|Q¿TÇ|RãØfÌÐó×uywWÀ0¨ÓOÀbÜ o³óWÞfçWKÇâ! êkå- ÜË_]ÕYÿtQÕåðÏô­NÌY÷mëð«Î¬øÆÁ9ëÒý_m¯ßÍY÷×ÿÎ±Aþñ7¿÷ùñïßÏ¿ÿ
+2024-11-22 16:43:03,656 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:43:03,658 - INFO - === All Tests Completed ===
+2024-11-22 16:52:11,452 - INFO - === Starting Tests ===
+2024-11-22 16:52:11,453 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:52:11,453 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:52:11,453 - INFO - ✅ All environment variables are set.
+2024-11-22 16:52:11,453 - INFO - Testing Discord OAuth2...
+2024-11-22 16:52:11,453 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:52:11,453 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 16:52:11,660 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 16:52:11,661 - INFO - Testing YouTube API...
+2024-11-22 16:52:11,890 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 16:52:11,891 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:52:11,891 - INFO - https://kick.com/w33brl
+2024-11-22 16:52:12,009 - INFO - Status Code: 403
+2024-11-22 16:52:12,010 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:52:12,010 - INFO - === All Tests Completed ===
+2024-11-22 16:55:17,926 - INFO - === Starting Tests ===
+2024-11-22 16:55:17,926 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 16:55:17,926 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 16:55:17,926 - INFO - ✅ All environment variables are set.
+2024-11-22 16:55:17,926 - INFO - Testing Discord OAuth2...
+2024-11-22 16:55:17,926 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 16:55:17,926 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 16:55:18,142 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 16:55:18,143 - INFO - Testing YouTube API...
+2024-11-22 16:55:18,433 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 16:55:18,434 - INFO - Testing Kick Web Scraping...
+2024-11-22 16:55:18,434 - INFO - https://kick.com/w33brl
+2024-11-22 16:55:18,514 - INFO - Status Code: 403
+2024-11-22 16:55:18,514 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:55:18,515 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 16:55:18,515 - INFO - Response Headers: {'Date': 'Fri, 22 Nov 2024 23:55:17 GMT', 'Content-Type': 'text/html', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Accept-CH': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Critical-CH': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Cross-Origin-Embedder-Policy': 'require-corp', 'Cross-Origin-Opener-Policy': 'same-origin', 'Cross-Origin-Resource-Policy': 'same-origin', 'Origin-Agent-Cluster': '?1', 'Permissions-Policy': 'accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()', 'Referrer-Policy': 'same-origin', 'X-Content-Options': 'nosniff', 'X-Frame-Options': 'SAMEORIGIN', 'cf-mitigated': 'challenge', 'cf-chl-out': 'bgIlg6xNN9rlkso+ZfsVjJjwzO7LeKN7eKeLugfyXxVr9wEs4J7USIHvo9ilE+V5UqNpNTRQhnhiIWTvSLJuZQnPgHoG6JygzrVl/b/F5hLohPVZl3vArqEbTJS05O52eeb6wWYL9WZkT2FzFmPBfw==$o+2wBrAQhsDHGGU0aQOwWA==', 'Cache-Control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'Expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'Set-Cookie': '__cf_bm=6YKIGMHtrc7ZJYNF8naHOVNatJnA8Ocz6SrXe5COpRM-1732319717-1.0.1.1-Ul9BLzbfTLN2L4OdGkRwl4m2Vf4FviqGrs_Ir8qq0lUyza4kJb3VlYmMDktMoy1rnzdZIOX9gk5vxCfOZxLkJw; path=/; expires=Sat, 23-Nov-24 00:25:17 GMT; domain=.kick.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'CF-RAY': '8e6cd97d6de3a702-PHX', 'Content-Encoding': 'br', 'alt-svc': 'h3=":443"; ma=86400'}
+2024-11-22 16:55:18,515 - INFO - Response Text: á`¨æýp )çï7ñN«þë7Õ½hÞ;Z<P!Øk9{}÷P£=1NÜ¶"CHëóØàò_·Wecì¿kÚÜØ5ÈF½(Ó¢4áéè@e
+Yþøw½ýæUÿþQ_óã¼pëü{mÖ¾øCÙõ#ùÀ¼×  ,b2ÐdôØ ^þ×GV'óR¬¿Wþ3Ëüo>¯
+S¡øýÃ>uÆéÐüáã4ÕU5m@¼Ú{¹ßNTæs=ú¾,éßÐióßæê?þñg:_Ks7cõW¿WDÄ7ø+½ä¯zú?û  Â~}EÚ5ë×Zë×ÒÜÅW·Û²~C ø_t2B úåUd)ý`_[óù¼^}ñÅàé±ÓÌùüDa×O§¨¦âÃ?í)ÖéS*ú½X,ùÐ­ø¤ç&é?õi>d\¢ã>é×«/>Ø©æ~Ú÷à\C:A¢Õð`·5p²/Î_e__)Æ!`cå- Üë_C3~qfüfüò#Ãîá#ÙÖé×^éçbp÷W|õE¹~C 6Ã_ÿ{ÆÛÇßäÞçÇ¿0ø:ÿþ'
+2024-11-22 16:55:18,516 - INFO - === All Tests Completed ===
+2024-11-22 17:14:39,236 - INFO - === Starting Tests ===
+2024-11-22 17:14:39,236 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 17:14:39,236 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 17:14:39,236 - INFO - ✅ All environment variables are set.
+2024-11-22 17:14:39,236 - INFO - Testing Discord OAuth2...
+2024-11-22 17:14:39,236 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 17:14:39,236 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 17:14:39,408 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 17:14:39,409 - INFO - Testing YouTube API...
+2024-11-22 17:14:39,655 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 17:14:39,656 - INFO - Testing Kick Web Scraping...
+2024-11-22 17:14:39,656 - INFO - https://kick.com/w33brl
+2024-11-22 17:14:39,746 - INFO - Status Code: 403
+2024-11-22 17:14:39,746 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 17:14:39,746 - ERROR - ❌ Failed to fetch Kick data (Status Code: 403).
+2024-11-22 17:14:39,748 - INFO - Response Headers: {'Date': 'Sat, 23 Nov 2024 00:14:39 GMT', 'Content-Type': 'text/html', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Accept-CH': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Critical-CH': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Cross-Origin-Embedder-Policy': 'require-corp', 'Cross-Origin-Opener-Policy': 'same-origin', 'Cross-Origin-Resource-Policy': 'same-origin', 'Origin-Agent-Cluster': '?1', 'Permissions-Policy': 'accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()', 'Referrer-Policy': 'same-origin', 'X-Content-Options': 'nosniff', 'X-Frame-Options': 'SAMEORIGIN', 'cf-mitigated': 'challenge', 'cf-chl-out': 'tObuuKVP0R6fjX5F65AH59zQ/soMqYMHGQCq7yXjk13khIwdz8dHfeiNUM+MkLsbhfLyJi7/lI9EmgRxhfeZEQGF80l8TM4hGN5NUJAIQDDuvaN0P2Kctu4tgG7bIkVanauQ2zpbIvJWvN2xzPs3Dg==$aCRmkn1Fmd3Kz9q67iXDAA==', 'Cache-Control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'Expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'Set-Cookie': '__cf_bm=4ips0oMYtKvBVQDC_HASzyvsVHURaeK5f1nTGsGQIrk-1732320879-1.0.1.1-qXXX.bywFEgaUw7ww7ygHWIyRLnPmqdQ153r8BbbhqODrG0TWo.FpBPGVC3GgXh_xmqraYKR9BjqbrrN7_sd0w; path=/; expires=Sat, 23-Nov-24 00:44:39 GMT; domain=.kick.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'CF-RAY': '8e6cf5d7384ec4c4-PHX', 'Content-Encoding': 'br', 'alt-svc': 'h3=":443"; ma=86400'}
+2024-11-22 17:14:39,748 - INFO - Response Text: á¸¨æýp )çï7ñ[Uý×oEôJhõöÜ!$<!HL±YlË×7ÓÒ³ÂÄ¼&&¡ÓÂ|jÌ]_ki5¿MDÚ¼!¦Idk¨e(EµIVJ'´@É<ë"6X9Üd*ùþøwµöÝæUËþþ_óãºpëü{­×.ÿCÙõ#ù ¼×  *b2ÐdplP­}÷ë#­yÉ×ßGZþóÊüo>+sS>ÿýÃ=Íñ¤ùÃ¸Ô5#5mA|´÷¿½¨ÚçñèøZÒ¤ËCgÿ6Wÿñ?_ãùµÔw=ßtõk9iE¾Á_ùÅ$UkßýéÙg öëëÈ_m½~­ù¹~-õ%Y³-ë7ÿH'C B _AE¥ëk«?¿iêò/É(LW­¤Îç'
+ã°~:y9æüi¯q?¥¼ÛóµN=ßòOz®îS×ñÃI%9à¦.ÿ`Çn?ø~ljxÜ{ªsõ¯mwø	v[7(ºüüUtùùÓaÆ!UÞÁ½úÕ×Ãdî¿>©¯02üé¿±É9ï?mõÉTy¾qpÎ{ÅWë7`sÞÿõ¿çØ`ûøÞûüø÷ï§ó
+2024-11-22 17:14:39,749 - INFO - === All Tests Completed ===
+2024-11-22 17:14:50,207 - INFO - === Starting Tests ===
+2024-11-22 17:14:50,207 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-22 17:14:50,207 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-22 17:14:50,207 - INFO - ✅ All environment variables are set.
+2024-11-22 17:14:50,207 - INFO - Testing Discord OAuth2...
+2024-11-22 17:14:50,207 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-22 17:14:50,207 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-22 17:14:50,414 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-22 17:14:50,415 - INFO - Testing YouTube API...
+2024-11-22 17:14:50,810 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-22 17:14:50,811 - INFO - === All Tests Completed ===
+2024-11-23 16:44:44,474 - INFO - === Starting Tests ===
+2024-11-23 16:44:44,475 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-23 16:44:44,475 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-23 16:44:44,475 - INFO - ✅ All environment variables are set.
+2024-11-23 16:44:44,475 - INFO - Testing Discord OAuth2...
+2024-11-23 16:44:44,475 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-23 16:44:44,475 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-23 16:44:44,741 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-23 16:44:44,741 - INFO - Testing YouTube API...
+2024-11-23 16:44:45,177 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-23 16:44:45,178 - INFO - === All Tests Completed ===
+2024-11-23 18:17:59,283 - INFO - === Starting Tests ===
+2024-11-23 18:17:59,283 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-23 18:17:59,283 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-23 18:17:59,284 - INFO - ✅ All environment variables are set.
+2024-11-23 18:17:59,284 - INFO - Testing Discord OAuth2...
+2024-11-23 18:17:59,284 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-23 18:17:59,284 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-23 18:17:59,753 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-23 18:17:59,753 - INFO - Testing YouTube API...
+2024-11-23 18:18:00,196 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-23 18:18:00,197 - INFO - === All Tests Completed ===
+2024-11-23 18:19:01,187 - INFO - === Starting Tests ===
+2024-11-23 18:19:01,187 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-23 18:19:01,187 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-23 18:19:01,187 - INFO - ✅ All environment variables are set.
+2024-11-23 18:19:01,187 - INFO - Testing Discord OAuth2...
+2024-11-23 18:19:01,187 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-23 18:19:01,188 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-23 18:19:01,383 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-23 18:19:01,383 - INFO - Testing YouTube API...
+2024-11-23 18:19:01,702 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-23 18:19:01,703 - INFO - === All Tests Completed ===
+2024-11-23 18:19:32,324 - INFO - === Starting Tests ===
+2024-11-23 18:19:32,324 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-23 18:19:32,324 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-23 18:19:32,324 - INFO - ✅ All environment variables are set.
+2024-11-23 18:19:32,324 - INFO - Testing Discord OAuth2...
+2024-11-23 18:19:32,324 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-23 18:19:32,324 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-23 18:19:32,545 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-23 18:19:32,546 - INFO - Testing YouTube API...
+2024-11-23 18:19:32,820 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-23 18:19:32,821 - INFO - === All Tests Completed ===
+2024-11-23 18:19:42,205 - INFO - === Starting Tests ===
+2024-11-23 18:19:42,205 - INFO - ✅ DISCORD_TOKEN loaded successfully.
+2024-11-23 18:19:42,205 - INFO - ✅ YOUTUBE_API_KEY loaded successfully.
+2024-11-23 18:19:42,205 - INFO - ✅ All environment variables are set.
+2024-11-23 18:19:42,205 - INFO - Testing Discord OAuth2...
+2024-11-23 18:19:42,205 - INFO - Requesting URL: https://discord.com/api/v10/users/@me
+2024-11-23 18:19:42,205 - INFO - DISCORD_TOKEN: MTMwODY1NTI5OTk3MTkxMTc3MA.GL8VFK.aWRxnE0ZWge170029luql8xw_BX01CeGL1YxJA
+2024-11-23 18:19:42,420 - INFO - ✅ Logged in as Darkenedlink#1495.
+2024-11-23 18:19:42,420 - INFO - Testing YouTube API...
+2024-11-23 18:19:42,673 - INFO - ✅ YouTube API Test Passed. Latest video: Get ready for the Women in AI Summit.
+2024-11-23 18:19:42,674 - INFO - === All Tests Completed ===
